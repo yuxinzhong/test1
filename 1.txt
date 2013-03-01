@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
 defwfewfwfwadfewq
+=======
+efwfw
+adfewq
+>>>>>>> de8c725c273e4306ea4ce69c32a405baf6e003db
